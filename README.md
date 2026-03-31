@@ -31,7 +31,7 @@ This project processes Ethereum historical data (2018–present) to:
 - Feature comparison plots
 
 ## File Structure
-- `SaiBallaChaitanyaVS2.ipynb`: Main notebook with code and plots
+- `ethereum_forecasting_pipeline.ipynb`: Main notebook with code and plots
 - `Ethereum_2018_To_Present.txt`: Raw dataset (CSV format)
 - `/figures`: (optional) Add output plots here for better presentation
 
